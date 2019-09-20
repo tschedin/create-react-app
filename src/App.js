@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the first edit to the app.jss file.  Using for github practice.
+          It's impossible to get this l to my freakin GitHub
         </p>
         <a
           className="App-link"
