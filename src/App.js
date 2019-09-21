@@ -8,7 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          It's impossible to get this l to my freakin GitHub
+          Ok, I finally worked out the way to get Git and VS Code together.
+
+          Second test to get a push to git.
         </p>
         <a
           className="App-link"
