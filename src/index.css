@@ -1,7 +1,7 @@
 body {
 	padding: 50px;
-	background-color: rgb(90, 87, 79);
-	font-family: sans-serif;
+	background-color: rgb(106, 192, 192);
+	font-family: Arial, Helvetica, sans-serif;
 }
 #container {
 	display: flex;
